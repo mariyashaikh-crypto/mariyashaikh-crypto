@@ -1,6 +1,6 @@
 # Hey, Mariya here! 👋
 
-An explorer of ideas, a collector of little inspirations, and someone who enjoys seeing where creativity leads.
+*This is where my side quests become repositories.*
 
 ### Find me around the web
 
